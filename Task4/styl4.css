@@ -1,0 +1,25 @@
+body {
+    font-family: Calibri;
+  }
+  .container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 2px solid;
+    border-radius:6px;
+    border-color: pink;
+  }
+  input[type="text"], input[type="password"], button
+  {
+    display: block;
+    width: 100;
+    padding: 10px;
+    background-color: pink;
+    margin-bottom: 10px;
+  } 
+  button {
+    background-color: violet;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
